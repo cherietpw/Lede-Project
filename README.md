@@ -27,6 +27,7 @@ The data of Taipei from each year (105 to 109 Republic of China era, i.e. 2016 t
 The two datasets were combined and uploaded to Datawrapper to produce a line chart. 
 
 
-Limitation 
+LIMITATION
+
 Apple-to-apple comparison was not feasible as Hong Kong and Taipei have different population, pandemic situation and social distancing measures. 
 
